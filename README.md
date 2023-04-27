@@ -28,5 +28,5 @@ Things you may want to cover:
 DMM WEBCAMPの学習コンテンツ、アプリケーションを完成させよう2のWorkと研修課題です。
 Ruby on Rails
 
-2章：テキスト学習
-3章：テキスト学習
+2章：テキスト学習 4/26完了
+3章：テキスト学習 4/27完了
